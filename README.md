@@ -17,11 +17,17 @@
 
 Steps to run :
 1.Clone the repository
+
 2.cd directory name
+
 3.pip install -r requirements.txt
+
 4.cd server
+
 5.python server.py
+
 6.in new terminal / navigate to \house-price-prediction\client
+
 7.start index.html
 
 ## Additional Information
